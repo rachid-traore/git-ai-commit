@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+git_ai_commit.egg-info/PKG-INFO
+git_ai_commit.egg-info/SOURCES.txt
+git_ai_commit.egg-info/dependency_links.txt
+git_ai_commit.egg-info/entry_points.txt
+git_ai_commit.egg-info/requires.txt
+git_ai_commit.egg-info/top_level.txt
+src/__init__.py
+src/editor.py
+src/git.py
+src/heuristic.py
+src/main.py
+src/ollama.py

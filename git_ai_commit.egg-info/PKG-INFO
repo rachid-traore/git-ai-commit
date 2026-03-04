@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: git-ai-commit
+Version: 0.1.0
+Summary: AI-powered git commit message generator using Ollama
+Author: TRAORE Timothée Rachid
+License: MIT
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: requests>=2.28.0
