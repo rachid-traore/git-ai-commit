@@ -47,5 +47,5 @@ pip install git-ai-commit
 
 echo ""
 echo "✅ Installation terminée !"
-echo "   Utilisation : git ai-commit"
+echo "   Utilisation : git-aicommit-message"
 echo "   Avec éditeur : git ai-commit --edit"
