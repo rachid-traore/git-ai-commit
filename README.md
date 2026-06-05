@@ -41,7 +41,7 @@ pip install git-ai-commit
 git add .
 
 # Generate and commit
-git ai-commit
+git git-aicommit-message
 
 # Open message in $EDITOR before committing
 git ai-commit --edit
